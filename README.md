@@ -1,4 +1,4 @@
-# Custom-Field-of-Type-Subform: Alternate Layouts
+# Custom Field of Type Subform: Alternate Layouts
 
 These Alternate Layouts come along with a series of articles published in the Joomla Community Magazine
 
