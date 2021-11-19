@@ -4,7 +4,7 @@ These Alternate Layouts come along with a series of articles published in the Jo
 
 For detailed instructions see the following two articles
 - https://magazine.joomla.org/all-issues/october-2021/custom-fields-episode-7-part-1-one-custom-field-to-rule-them-all
-- https://magazine.joomla.org/all-issues/november-2021/custom-fields-episode-7-part-2-without-limits
+- https://magazine.joomla.org/all-issues/november-2021/custom-fields-episode-7-part-2-one-custom-field-to-rule-them-all
 
 The goal is to built a 100% native Carousel for Articles... based on 1 single Custom Field, namely the CF of Type Subform introduced with Joomla 4.
 
